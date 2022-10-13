@@ -1,5 +1,5 @@
 {
-    "name": "vendocrat/laravel-addresses",
+    "name": "galadrim/laravel-addresses",
     "description": "Simple address and contact management for Laravel 5.",
     "homepage" : "https://github.com/AlexanderPoellmann/laravel-addresses",
     "license": "MIT",
@@ -10,9 +10,8 @@
     ],
     "authors": [
         {
-            "name"     : "Alexander Manfred Poellmann",
-            "homepage" : "http://twitter.com/AMPoellmann",
-            "role"     : "developer"
+            "name" : "Thomas Hallot",
+            "email": "thomas@galadrim.fr"
         }
     ],
     "require": {
